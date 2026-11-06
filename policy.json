@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"seq\":1,\"issuedAt\":1793965466185,\"graceEndsAt\":null,\"checkHours\":null,\"revoked\":[{\"h\":\"d61140ddccc43894\",\"msg\":\"\"}]}",
-  "sig": "ak7JPK4bhgdEBT_6yfnELShNMpb9IXhA4V5C1v-UHPlLmMNdu5RdaAP62napZ5wL0Hih1MRU6dBNFEHqk7qzCQ"
+  "payload": "{\"v\":1,\"seq\":2,\"issuedAt\":1793965647325,\"graceEndsAt\":null,\"checkHours\":null,\"revoked\":[]}",
+  "sig": "sSfSBYw5Dr2C1bF2hp3JQxDcgDIEfiVuN3GRiLnehw4KDuFmE0jswAJqXMRQMDuBFVhgVPmwAgFMDNLfMY0TCg"
 }
